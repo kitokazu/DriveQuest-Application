@@ -1,14 +1,21 @@
 # Drive Quest App
 
-Lucas Torti 3-7-22 work for the previous week
+This is a larger scale project that I am apart of that is still in development. It is being developed over the course of 2 semesters by the students in the Software Engineering courses SE300/310 and SE 320 at Chapman University under Dr. Boyd. The SRS document linked below has a detailed overview of the product with its parameters, requirements, and goals. Throughout these classes and my time spent working on this project, I have learned about all aspects of the Software Development Cycle, and had the priveledge to see our team's work come to life on a real product that will soon be delivered to a company.
 
-- Pair programmed with Kevan to create additional function in StorageHandler.js
+APP DESCRIPTION:
+The California DMV driving test is a source of anxiety and stress for driving students. Combat this by using the Drive Quest Instructor, supported by the research-backed Drive Quest Authorized Driving School! Evaluate your student’s driving in a format similar to the DMV’s testing sheet and then send them their results so that they can practice at home.
 
-Lucas Torti 3-14-22 work for the previous week
+Includes features such as:
 
-- Group programmed with Kevan and Mark to implement storage handler functionality in the login screen
+Customizable sounds that will play when the student makes an error, alleviating the tension and allowing for the student to learn more efficiently.
+Customizable sounds that will play when the student makes an error, alleviating the tension and allowing for the student to learn more efficiently.
+Automatic calculation of a pass/failure depending on your evaluation of the student.
+All DMV related criteria from smooth steering to automatic disqualification.
+Automatic saving of your test progress.
+Share results with anyone, including the student, their parents, or yourself!
+Transform the learning experience for new drivers by using our app today!
 
-All Files required for App
+DISCLAIMER: The sole purpose of this mobile application is to help you in the DMV driving test. You can not use this app as evidence or in legal matters. For clear understanding, read states official driver's manual.
 
 ## Installation
 
