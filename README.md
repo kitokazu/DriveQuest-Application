@@ -5,7 +5,7 @@ This is a larger scale project that I am apart of that is still in development. 
 APP DESCRIPTION:
 The California DMV driving test is a source of anxiety and stress for driving students. Combat this by using the Drive Quest Instructor, supported by the research-backed Drive Quest Authorized Driving School! Evaluate your student’s driving in a format similar to the DMV’s testing sheet and then send them their results so that they can practice at home.
 
-[App Store](https://apps.apple.com/us/app/drive-quest-instructor/id1623272043)
+[DriveQuest on the App Store](https://apps.apple.com/us/app/drive-quest-instructor/id1623272043)
 
 ## Installation
 
